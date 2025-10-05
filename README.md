@@ -25,9 +25,9 @@
 ## 📂 プロジェクト一覧
 | プロジェクト名 | 概要 | 使用技術 |
 |----------------|------|----------|
-| [ai-text-summary](https://github.com/yutaro-dev/ai-text-summary) | ChatGPT APIを使った日本語文章要約ツール | Python, OpenAI API |
-| [excel-automation](https://github.com/yutaro-dev/excel-automation) | 学童の勤怠データ処理を自動化するスクリプト | Python, openpyxl |
-| [chatbot-demo](https://github.com/yutaro-dev/chatbot-demo) | シンプルな社内問い合わせチャットボット | Streamlit, ChatGPT API |
+| [Expert chat app](https://github.com/kuchibashi56/streamlit-llm-app) | ChatGPT APIを使った健康とビジネスに関するチャットwebアプリ | Python, OpenAI API, Streamlit |
+| []() |  |  |
+| []() |  |  |
 
 ---
 
