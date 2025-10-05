@@ -16,6 +16,7 @@
 - Python（pandas, openpyxl, requests）
 - ChatGPT API / LangChain
 - Excelマクロ / VBA
+- Google App Script
 - Git / GitHub
 - Streamlit
 
